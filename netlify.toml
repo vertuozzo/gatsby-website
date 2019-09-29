@@ -1,0 +1,6 @@
+[build]
+  base = "www/"
+  publish = "www/public"
+  command = "gatsby build"
+[build.processing.html]
+  pretty_urls = false

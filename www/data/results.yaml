@@ -1,0 +1,123 @@
+#- title: "Emma"
+#  url: "https://vertuozzo.com/"
+#  preview: "https://vertuozzo.com/"
+#  description: "Clean portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images"
+#  image: "./emma.jpg"
+#  shapes: [
+#    {
+#      type: "circle",
+#      color: "green",
+#      size: ["200px", "300px"],
+#      xOffset: ["-140px"],
+#      yOffset: ["-70px"],
+#      opacity: 0.5,
+#    },
+#    {
+#      type: "donut",
+#      color: "teal",
+#      size: ["25px", "100px"],
+#      xOffset: ["50px"],
+#      yOffset: ["-60px"],
+#      opacity: 1,
+#    },
+#  ]
+#- title: "Status Dashboard"
+#  url: "https://vertuozzo.com/"
+#  preview: "https://vertuozzo.com/"
+#  description: "Show the live statuses of your Netlify and CircleCI builds on your website by using the customizable components"
+#  image: "./status-dashboard.png"
+#  shapes: [
+#    {
+#      type: "circle",
+#      color: "orange",
+#      size: ["120px", "220px"],
+#      xOffset: ["-20px"],
+#      yOffset: ["100px", "180px"],
+#      opacity: 1,
+#    },
+#    {
+#      type: "circle",
+#      color: "gray",
+#      size: ["50px", "100px"],
+#      xOffset: ["-40px"],
+#      yOffset: ["-60px"],
+#      opacity: 1,
+#    },
+#  ]
+#- title: "Cara"
+#  url: "https://vertuozzo.com/"
+#  preview: "https://vertuozzo.com/"
+#  description: "Playful and Colorful One-Page portfolio featuring Parallax effects and animations"
+#  image: "./cara.jpg"
+#  shapes: [
+#  {
+#    type: "donut",
+#    color: "blue",
+#    size: ["120px", "220px"],
+#    xOffset: ["-70px"],
+#    yOffset: ["100px", "180px"],
+#    opacity: 1,
+#  },
+#  {
+#    type: "circle",
+#    color: "purple",
+#    size: ["50px", "100px"],
+#    xOffset: ["140px"],
+#    yOffset: ["-40px", "-70px"],
+#    opacity: 1,
+#  },
+#  ]
+- title: "Брокерский отчёт"
+  url: "https://vertuozzo.com/"
+  preview: "https://vertuozzo.com/"
+  description: "Брокерский отчёт за III квартал, 2019"
+  image: "./blank.jpg"
+  shapes: [
+  {
+    type: "circle",
+    color: "red",
+    size: ["100px", "175px"],
+    xOffset: ["-60px", "-90px"],
+    yOffset: ["100px", "200px", "180px", "230px"],
+    opacity: 1,
+  },
+  {
+    type: "donut",
+    color: "teal",
+    size: ["80px", "150px"],
+    xOffset: ["-30px", "-70px"],
+    yOffset: ["-50px", "-50px", "-50px"],
+    opacity: 1,
+  },
+  {
+    type: "circle",
+    color: "yellow",
+    size: ["100px", "135px"],
+    xOffset: ["300px", "600px", "280px", "400px"],
+    yOffset: ["-40px", "-60px"],
+    opacity: 1,
+  },
+  ]
+#- title: "Emilia"
+#  url: "https://vertuozzo.com/"
+#  preview: "https://vertuozzo.com/"
+#  description: "Minimalistic portfolio/photography site with masonry grid, page transitions and big images."
+#  image: "./emilia.png"
+#  shapes: [
+#  {
+#    type: "circle",
+#    color: "blue",
+#    size: ["100px", "200px"],
+#    xOffset: ["-70px"],
+#    yOffset: ["100px", "180px"],
+#    opacity: 1,
+#  },
+#  {
+#    type: "circle",
+#    color: "orange",
+#    size: ["80px", "100px"],
+#    xOffset: ["350px", "350px", "320px", "400px"],
+#    yOffset: ["-40px", "-70px"],
+#    opacity: 1,
+#  },
+#  ]
