@@ -25,7 +25,7 @@ type NewsletterTemplateProps = {
 const NewsletterTemplate = ({ data: { newsletter } }: NewsletterTemplateProps) => (
   <Layout newsletter>
     <SEO
-      title={`${newsletter.title} | Торговля фьючерсами на Московской Бирже`}
+      title={`${newsletter.title}`}
       description={newsletter.excerpt}
       pathname={newsletter.slug}
       datePublished={newsletter.date}
