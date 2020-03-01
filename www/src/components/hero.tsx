@@ -23,7 +23,7 @@ const Hero = () => {
             <Box sx={{ mt: 5 }}>
               <Box sx={{ fontSize: 1, fontWeight: `semibold`, mb: 2 }}>Прочитать детальное описание, ЧАВО и многое другое</Box>
               <a
-                href="javascript:void(0);"
+                href="javascript:alert('Извините. Сервис находится в разработке.');"
                 rel="noopener noreferrer"
                 sx={{ variant: `buttons.newsletter`, mt: 2, display: `inline-block` }}
               >

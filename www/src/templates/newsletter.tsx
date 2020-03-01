@@ -123,7 +123,7 @@ const NewsletterTemplate = ({ data: { newsletter } }: NewsletterTemplateProps) =
       >
         <div>Получайте уведомления о новых записях в блоге прямо на ваш почтовый ящик!</div>
         <a
-          href="javascript:void(0);"
+          href="javascript:alert('Извините. На данный момент невозможно подписаться на уведомления.');"
           rel="noopener noreferrer"
           // target="_blank"
           sx={{
