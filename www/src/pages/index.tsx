@@ -8,7 +8,7 @@ import FromTheBlog from "../components/from-the-blog"
 const Index = () => (
   <Layout>
     <Hero />
-    <Results />
+    {/* <Results /> */}
     <AboutMe />
     <FromTheBlog />
   </Layout>
