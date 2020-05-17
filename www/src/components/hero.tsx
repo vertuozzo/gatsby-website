@@ -15,7 +15,7 @@ const Hero = () => {
         <Flex sx={{ justifyContent: `space-between` }}>
           <Box>
             <Box sx={{ maxWidth: `490px` }}>
-              <Styled.h1>Сайт для тех, кто торгует фьючерсами, опционами, CFD и акциями на российских и зарубежных площадках</Styled.h1>
+              <Styled.h1>Сайт для тех, кто торгует на российских и зарубежных площадках</Styled.h1>
               <Styled.p sx={{ color: `dark` }}>
                 Данный сайт предназначен для трейдеров, которые торгуют <span sx={{ fontWeight: `bold` }}>фьючерсами, опционами, CFD и акциями</span> на MOEX и CME
               </Styled.p>
