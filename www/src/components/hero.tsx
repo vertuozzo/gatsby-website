@@ -17,13 +17,13 @@ const Hero = () => {
             <Box sx={{ maxWidth: `490px` }}>
               <Styled.h1>Сайт для тех, кто торгует на российских и зарубежных площадках</Styled.h1>
               <Styled.p sx={{ color: `dark` }}>
-                Данный сайт предназначен для трейдеров, которые торгуют <span sx={{ fontWeight: `bold` }}>фьючерсами, опционами, CFD и акциями</span> на MOEX и CME
+                Данный сайт предназначен для трейдеров, которые торгуют <span sx={{ fontWeight: `bold` }}>фьючерсами, опционами, CFD и акциями</span> на MOEX и CME.
               </Styled.p>
               <Styled.p sx={{ color: 'dark' }}>
               Информация, представленная на данном сайте, носит ознакомительный характер и не является прямой рекомендацией к совершению сделки.
               </Styled.p>
             </Box>
-            <Box sx={{ mt: 5 }}>
+           {/* <Box sx={{ mt: 5 }}>
               <Box sx={{ fontSize: 1, fontWeight: `semibold`, mb: 2 }}>Прочитать детальное описание, ЧАВО и многое другое</Box>
               <a
                 href="javascript:alert('Извините. Сайт находится в разработке.');"
@@ -32,7 +32,7 @@ const Hero = () => {
               >
                 Читать далее
               </a>
-            </Box>
+            </Box> */}
           </Box>
           {isBigScreen && <ThreeDModel />}
         </Flex>

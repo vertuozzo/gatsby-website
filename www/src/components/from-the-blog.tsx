@@ -37,8 +37,8 @@ const FromTheBlog = () => {
           <Styled.h2 sx={{ mr: 3 }}>Из Блога</Styled.h2>
           <a
             href="/rss.xml"
-            title="RSS Лента из 'From The Blog'"
-            aria-label="RSS Лента из 'From The Blog'"
+            title="RSS Лента 'Из Блога'"
+            aria-label="RSS Лента 'Из Блога'"
             sx={{
               width: `36px`,
               height: `36px`,
@@ -65,7 +65,7 @@ const FromTheBlog = () => {
           </a>
         </div>
         <Styled.p>
-          Читайте мой блог и будьте в курсе последних новостей сервиса
+          Читайте мой блог и будьте в курсе последних новостей сайта
         </Styled.p>
         <div sx={{ my: 5 }}>
           {newsletter.nodes.map((entry, index) => (
