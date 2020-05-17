@@ -15,15 +15,15 @@ const Hero = () => {
         <Flex sx={{ justifyContent: `space-between` }}>
           <Box>
             <Box sx={{ maxWidth: `490px` }}>
-              <Styled.h1>Сервис для тех, кто торгует фьючерсами на Московской Бирже</Styled.h1>
+              <Styled.h1>Сайт для тех, кто торгует фьючерсами, опционами, CFD и акциями на российских и зарубежных площадках</Styled.h1>
               <Styled.p sx={{ color: `dark` }}>
-                Данный сервис предназначен для трейдеров, которые торгуют <span sx={{ fontWeight: `bold` }}>фьючерсами</span> по основным биржевым товарным и валютным контрактам
+                Данный сайт предназначен для трейдеров, которые торгуют <span sx={{ fontWeight: `bold` }}>фьючерсами, опционами, CFD и акциями</span> на MOEX и CME
               </Styled.p>
             </Box>
             <Box sx={{ mt: 5 }}>
               <Box sx={{ fontSize: 1, fontWeight: `semibold`, mb: 2 }}>Прочитать детальное описание, ЧАВО и многое другое</Box>
               <a
-                href="javascript:alert('Извините. Сервис находится в разработке.');"
+                href="javascript:alert('Извините. Сайт находится в разработке.');"
                 rel="noopener noreferrer"
                 sx={{ variant: `buttons.newsletter`, mt: 2, display: `inline-block` }}
               >
