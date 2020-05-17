@@ -39,9 +39,9 @@ const Header = () => {
             <Styled.a href="https://t.me/s/vertuozzo" target="_blank">
               Канал в Telegram
             </Styled.a>
-			<Styled.a href="https://t.me/vertuozzo_bot" target="_blank" sx={{ ml: 4 }}>
+			{/* <Styled.a href="https://t.me/vertuozzo_bot" target="_blank" sx={{ ml: 4 }}>
               Бот в Telegram
-            </Styled.a>
+            </Styled.a> */}
           </Flex>
         </Flex>
       </Container>
