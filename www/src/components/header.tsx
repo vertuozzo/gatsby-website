@@ -31,8 +31,8 @@ const Header = () => {
               sx={{ height: 12, width: 1, backgroundColor: `primary`, borderRadius: `full`, mx: 3 }}
             />
             <Flex sx={{ flexDirection: `column` }}>
-              <Box sx={{ fontSize: 3, fontWeight: `semibold`, lineHeight: `25px` }}>Торговля фьючерсами</Box>
-              <Box sx={{ color: `dark` }}>на Московской Бирже</Box>
+              <Box sx={{ fontSize: 3, fontWeight: `semibold`, lineHeight: `25px` }}>Торговля фьючерсами, опционами и акциями</Box>
+              <Box sx={{ color: `dark` }}>на российских и зарубежных площадках</Box>
             </Flex>
           </Flex>
           <Flex sx={{ mt: [4, 0], alignItems: `center` }}>
