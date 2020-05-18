@@ -71,16 +71,7 @@ const Layout = ({ children, className, newsletter }: LayoutProps) => {
       <Header />
       <Main className={className}>{children}</Main>
       <Footer>
-        &copy; {new Date().getFullYear()} <Styled.a href="javascript:void(0);">vertuozzo.com</Styled.a>. Все права защищены.{` `}
-        <br />
-        <Styled.a rel="nofollow" href="javascript:void(0);">
-          Политика конфиденциальности
-        </Styled.a>
-          .{` `}
-        <Styled.a rel="nofollow" href="javascript:void(0);">
-          Предупреждение о риске
-        </Styled.a>
-          .
+        &copy; {new Date().getFullYear()} <Styled.a href="/">vertuozzo.com</Styled.a>. Все права защищены.
       </Footer>
     </>
   )
