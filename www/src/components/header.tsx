@@ -32,7 +32,7 @@ const Header = () => {
             />
             <Flex sx={{ flexDirection: `column` }}>
               <Box sx={{ fontSize: 3, fontWeight: `semibold`, lineHeight: `25px` }}>Премиум аналитика</Box>
-              <Box sx={{ color: `dark` }}>по MOEX и CME</Box>
+              <Box sx={{ color: `dark` }}>MOEX CME</Box>
             </Flex>
           </Flex>
           <Flex sx={{ mt: [4, 0], alignItems: `center` }}>
